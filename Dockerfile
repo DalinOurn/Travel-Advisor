@@ -15,7 +15,7 @@ RUN npm install
 # build necessary, even if no static files are needed,
 # since it builds the server as well
 # RUN npm run build
-
+RUN npm run start
 # expose 5000 on container
 EXPOSE 5000
 
