@@ -19,7 +19,7 @@
             class="d-flex align-center justify-space-around"
           >
             <div>
-              <h2>Cambodia</h2>
+              <h2>Cambodia is ours, not only you and your family</h2>
               <div>
                 Cambodia is divided into 25 provinces . The capital Phnom Penh
                 is not a province but an "autonomous municipality" (Khmer:
