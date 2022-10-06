@@ -43,7 +43,7 @@ export default {
 
     axios: {
         // baseURL: 'http://localhost:3001', //offline
-        baseURL: 'http://43.206.117.179:3001', //online
+        baseURL: 'http://54.199.61.124:3001', //online
         credentials: true,
     },
 
